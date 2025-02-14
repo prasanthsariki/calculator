@@ -1,0 +1,28 @@
+button{
+    height:25px;
+    width: 25px;
+    border-color: transparent;
+    border-radius: 25%;
+    background-color: rgba(128, 128, 128, 0.351);
+}
+.md div{
+    padding: 5px;
+}
+input{
+    border-color: transparent;
+    background-color: wheat;
+    height: 30px;
+    width: 85%;
+    border-radius: 10%;
+}
+.md{
+    width: 280px;
+    border: 2px solid black;
+    padding: 25px;
+}
+button:hover{
+    background-color: wheat;
+}
+button:active{
+    background-color: lightskyblue;
+}
